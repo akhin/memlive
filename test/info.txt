@@ -1,0 +1,5 @@
+1. Run the executable
+
+2. Open a browser and navigate to "localhost:555"
+
+3. In the page you can submit data to the listening executable. As you submit data , you can manually validate it on the console
